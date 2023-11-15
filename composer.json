@@ -1,9 +1,9 @@
 {
-    "name": "educach/dsb-client",
+    "name": "devfactorych/dsb-client",
     "description": "Client library for communicating with the REST API of the national catalog of the Swiss digital school library",
     "license": "MIT",
     "type": "library",
-    "homepage": "https://github.com/educach/dsb-client",
+    "homepage": "https://github.com/DevFactoryCH/dsb-client",
     "keywords": ["education","lom"],
     "authors": [
         {
@@ -24,7 +24,7 @@
         "satooshi/php-coveralls": "~1.0"
     },
     "require": {
-        "guzzlehttp/guzzle": "~6.2",
+        "guzzlehttp/guzzle": "^7.8",
         "sabre/xml": "~1.0"
     },
     "autoload": {
